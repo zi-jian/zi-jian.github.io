@@ -1,34 +1,36 @@
-## So this is zi-jian
+# So this is zi-jian
 
 Libra
+
 Dalian, Chengdu, Nanjing, Suzhou
 
-### Interests
+## Interests
 - Digital World: Computer, Smartphones...
 - Arts: Graphic design, Industrial design...
 - Video Games: Red Alert, Need for Speed, Counter-Strike, BnB, Crossfire...
-- Photography, 	jogging, Guitar
+- Photography, 	Jogging, Guitar
 
-### Skills
+## Skills
 C, C++, MFC, C#, ASP.NET, HTML, Linux, TCP/IP, Qt Quick, Photoshop...
 
-### Projects
-#### Material Reading
+## Projects
+
+### Material Reading
 Qt Quick(QML), Windows, macOS, iOS...
 Material Design
 SQLite
 
-#### Bulls and Cows
+### Bulls and Cows
 C, iOS(Swift)
 
-#### ITOU
+### ITOU
 ASP.NET(C#), iOS(Swift)
 Unicode <-> GB2312
 
-#### Get Rank from Sipmch
+### Get Rank from Sipmch
 python
 
-#### IOT
+### IOT
 ARM + WinCE
 ASP.NET + SQL Server
 IOCP
