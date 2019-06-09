@@ -1,7 +1,7 @@
 ## Interests
 - Arts: Graphic design, Industrial design...
-- Video Games: Red Alert, Need for Speed, Counter-Strike, BnB, CrossFire...
-- Reading, Photography
+- Reading, Photography, Cycling
+- Games that I loved: Red Alert, Need for Speed, BnB, CrossFire
 
 ## Skills
 C, C++, Linux, Qt Quick, Photoshop...
@@ -24,7 +24,7 @@ Unicode <-> GB2312
 ### Get Rank from Sipmch
 python
 
-### IOT
+### IOT(RMP)
 ARM + WinCE
 ASP.NET + SQL Server
 IOCP
