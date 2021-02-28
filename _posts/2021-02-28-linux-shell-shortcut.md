@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linux 终端快捷键
+title: Linux Shell Shortcuts
 permalink: /linux-shell-shortcuts/
 date:   2021-02-28 17:37:25 +0800
 categories: jekyll update
